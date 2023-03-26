@@ -4,12 +4,12 @@ body {
   color: rgb(0 100 0 15);
   background-color: rgb(100 0 100 0);
 }
-.nav-box {
+div.navbox, ul {
   display: flex;
+  color: black;
   position: top;
-  width: auto;
+  width: 270px;
   height: 128px;
-  align-items: center;
-  
-  
-}
+  align-items: vertical;
+  list-style: none;
+  }

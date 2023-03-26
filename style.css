@@ -4,3 +4,12 @@ body {
   color: rgb(0 100 0 15);
   background-color: rgb(100 0 100 0);
 }
+.nav-box {
+  display: flex;
+  position: top;
+  width: auto;
+  height: 128px;
+  align-items: center;
+  
+  
+}
